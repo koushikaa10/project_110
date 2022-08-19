@@ -1,0 +1,33 @@
+body
+{
+  color: white;
+  background:coral;
+}
+span
+{
+  font-size: 30px;
+}
+
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:50px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius:10px;
+  letter-spacing:10px;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+
